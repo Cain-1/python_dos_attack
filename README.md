@@ -1,5 +1,5 @@
 python script dos attack url
-
+*You will be responsible for using the program*
 # install
 
 
